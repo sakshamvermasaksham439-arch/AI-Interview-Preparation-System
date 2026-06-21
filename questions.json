@@ -1,0 +1,138 @@
+
+{
+"Stack": [
+    "Valid Parentheses",
+    "Implement stack using queue",
+    "Next Greater Element",
+    "Min Stack",
+    "Postfix Evaluation"
+],
+
+"Arrays":[
+    "Find duplicate element in array",
+    "Maximum subarray sum",
+    "Rotate array by k steps",
+    "Two Sum Problem",
+    "Merge two sorted arrays"
+],
+
+"Linked List": [
+    "Reverse Linked List",
+    "Detect cycle in linked list",
+    "Merge two linked lists",
+    "Find middle node",
+    "Add Two Numbers"
+],
+
+"Queue": [
+    "Implement Queue using Stack",
+    "Circular Queue",
+    "First Non-Repeating Character",
+    "Generate Binary Numbers",
+    "Sliding Window Maximum"
+],
+
+"String": [
+    "Reverse String",
+    "Valid Palindrome",
+    "Longest Common Prefix",
+    "Anagram Check",
+    "Longest Substring Without Repeating Characters"
+],
+
+"Searching": [
+    "Binary Search",
+    "Search in Rotated Sorted Array",
+    "First and Last Occurrence",
+    "Square Root using Binary Search",
+    "Peak Element"
+],
+
+"Sorting": [
+    "Bubble Sort",
+    "Selection Sort",
+    "Insertion Sort",
+    "Merge Sort",
+    "Quick Sort"
+],
+
+"Recursion": [
+    "Factorial",
+    "Fibonacci Series",
+    "Tower of Hanoi",
+    "Print Subsequences",
+    "Palindrome Check"
+],
+
+"Tree": [
+    "Inorder Traversal",
+    "Preorder Traversal",
+    "Postorder Traversal",
+    "Level Order Traversal",
+    "Height of Binary Tree"
+],
+
+"Binary Search Tree": [
+    "Search Node",
+    "Insert Node",
+    "Delete Node",
+    "Validate BST",
+    "Lowest Common Ancestor"
+],
+
+  "Heap": [
+    "Build Max Heap",
+    "Build Min Heap",
+    "Heap Sort",
+    "Kth Largest Element",
+    "Merge K Sorted Arrays"
+  ],
+
+  "Hashing": [
+    "Two Sum",
+    "Frequency Count",
+    "First Unique Character",
+    "Longest Consecutive Sequence",
+    "Intersection of Arrays"
+  ],
+
+  "Graph": [
+    "Breadth First Search",
+    "Depth First Search",
+    "Detect Cycle in Graph",
+    "Topological Sort",
+    "Shortest Path"
+  ],
+
+  "Dynamic Programming": [
+    "0/1 Knapsack",
+    "Longest Common Subsequence",
+    "Coin Change",
+    "Fibonacci DP",
+    "Longest Increasing Subsequence"
+  ],
+
+  "Greedy": [
+    "Activity Selection",
+    "Fractional Knapsack",
+    "Job Sequencing",
+    "Minimum Platforms",
+    "Huffman Coding"
+  ],
+
+  "Backtracking": [
+    "N Queens Problem",
+    "Sudoku Solver",
+    "Rat in a Maze",
+    "Permutation Generation",
+    "Subset Generation"
+  ],
+
+  "Trie": [
+    "Insert Word",
+    "Search Word",
+    "Delete Word",
+    "Prefix Search",
+    "Word Dictionary"
+  ]
+}
