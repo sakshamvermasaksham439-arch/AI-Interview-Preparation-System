@@ -1,3 +1,9 @@
+#  ========================================================
+# Project : AI Interview Preparation System
+# Technologies : Python, Streamlit, Machine Learning
+# Copyright : Study Trigger
+# =========================================================
+
 import pandas as pd 
 import streamlit as st
 import matplotlib.pyplot as plt
